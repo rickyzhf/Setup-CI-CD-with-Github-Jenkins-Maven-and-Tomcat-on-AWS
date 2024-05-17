@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Deploy Ansible Playbook using Jenkins to automate the whole process! New SCM</h1>
+   <h1> Deploy Ansible Playbook using Jenkins to automate the whole process! New SCM auto change</h1>
 
   
 </form>
